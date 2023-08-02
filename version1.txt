@@ -3,3 +3,6 @@ This is the first feature of our application
 This is the bug fix in Development
 
 After bug fixing,this is the new feature with minor alternation
+
+This is the advancement of previous feature
+
