@@ -5,4 +5,7 @@ This is the advancement of previous feature
 
 Feauture 2 is completed and ready for release
 
+This is the advancement of previous feature
+
+Added few more changes to make it more optimized
 
